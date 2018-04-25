@@ -5,3 +5,5 @@ The Apache JMeter™ application is open source software, a 100% pure Java appli
 #### 参考资料：
 
 [官网](https://jmeter.apache.org/)
+
+[使用Jmeter进行http接口性能测试](http://www.cnblogs.com/star91/p/5059222.html)
