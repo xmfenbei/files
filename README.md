@@ -1,4 +1,4 @@
-# 
+# Spring
 
 Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
 
