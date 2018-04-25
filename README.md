@@ -5,3 +5,5 @@ Netty is an asynchronous event-driven network application framework for rapid de
 
 #### 参考资料：
 [官网](https://netty.io/)
+
+[Netty4学习笔记（1）-- ChannelPipeline](https://blog.csdn.net/zxhoo/article/details/17264263)
