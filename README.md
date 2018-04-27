@@ -6,6 +6,8 @@ Netty is an asynchronous event-driven network application framework for rapid de
 #### 参考资料：
 [官网](https://netty.io/)
 <br>
+[GitHub](https://github.com/netty/netty)
+<br>
 [User guide for 4.x](https://netty.io/wiki/user-guide-for-4.x.html)
 <br>
 [Netty API Reference (4.1.24.Final)](https://netty.io/4.1/api/index.html)
