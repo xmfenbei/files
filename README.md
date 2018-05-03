@@ -4,5 +4,6 @@ MyBatis is a first class persistence framework with support for custom SQL, stor
 
 #### 参考资料：
 [官网](http://www.mybatis.org/mybatis-3/)
+[| zh-cn](http://www.mybatis.org/mybatis-3/zh/index.html)
 
 [GitHub](https://github.com/mybatis/mybatis-3)
