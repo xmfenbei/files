@@ -55,3 +55,11 @@ public class EsProperties {
 总结：建议采用方法一。
 
 学习@PostConstruct注解的用法。
+
+
+#### 参考资料：
+[Spring – Inject value into static variables](https://www.mkyong.com/spring/spring-inject-a-value-into-static-variables/)
+
+[注解@PostConstruct与@PreDestroy详解及实例](https://blog.csdn.net/wo541075754/article/details/52174900)
+
+[Spring静态变量注入](https://blog.csdn.net/Healist/article/details/78658348)
